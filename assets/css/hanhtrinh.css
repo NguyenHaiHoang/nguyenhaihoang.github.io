@@ -1,0 +1,21 @@
+.divgachxannh {
+  border: 1px cyan solid;
+}
+
+#tbcntt {
+  border: 1px black solid;
+}
+
+#btcntt {
+  margin-top: 3%;
+  border: 1px black solid;
+}
+
+#member-area {
+  background-color: rgb(41,41,41);
+  color: #fff;
+}
+
+h4{
+  font-family: 'Playfair Display';
+}
